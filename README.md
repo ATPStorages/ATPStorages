@@ -1,5 +1,7 @@
-### Hi there 👋
+<img src="https://github.githubassets.com/images/mona-whisper.gif">
 
+[![gitstats](https://github-readme-stats.vercel.app/api?username=ATPStorages&border_radius=10&theme=discord_old_blurple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![langstats](https://github-readme-stats.vercel.app/api/top-langs/?username=ATPStorages&border_radius=10&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ATPStorages/ATPStorages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
