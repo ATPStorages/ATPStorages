@@ -1,5 +1,4 @@
-<img src="https://github.githubassets.com/images/mona-whisper.gif"></img><br>
-!!! your time is running out !!!
+![](https://media.discordapp.net/attachments/763053037332725790/871140760421040188/image0.gif)
 =
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATPStorages&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATPStorages&theme=github_dark)
