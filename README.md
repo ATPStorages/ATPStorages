@@ -8,6 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=ATPStorages&theme=github_dark&layout=compact)
 <br>
 [![wakatime](https://wakatime.com/badge/user/b1576fd2-0272-4525-9148-f14e06343724.svg)](https://wakatime.com/@b1576fd2-0272-4525-9148-f14e06343724)
+<br>
+![https://github.com/antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=ATPStorages&color=orange)
 <!--
 **ATPStorages/ATPStorages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
