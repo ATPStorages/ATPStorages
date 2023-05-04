@@ -1,15 +1,15 @@
 ![](https://media.discordapp.net/attachments/763053037332725790/871140760421040188/image0.gif)
+<br>
+<br>
+Programming Activity
+--
+![](https://wakatime.com/share/@ATPStorages/2737cc92-9bee-40f1-a01e-a2bbe5b0d241.svg)
+<br>
+Languages I Stumble onto
+--
+![](https://wakatime.com/share/@ATPStorages/19af66c0-9ca9-4c4f-abf8-61067b8c265d.svg)
 =
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ATPStorages&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ATPStorages&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ATPStorages&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ATPStorages&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ATPStorages&theme=github_dark&utcOffset=8)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=ATPStorages&theme=github_dark&layout=compact)
-<br>
-[![wakatime](https://wakatime.com/badge/user/b1576fd2-0272-4525-9148-f14e06343724.svg)](https://wakatime.com/@b1576fd2-0272-4525-9148-f14e06343724)
-<br>
-![https://github.com/antonkomarev/github-profile-views-counter](https://komarev.com/ghpvc/?username=ATPStorages&color=orange)
+![](https://komarev.com/ghpvc/?username=ATPStorages&color=orange)
 <!--
 **ATPStorages/ATPStorages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
