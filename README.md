@@ -1,13 +1,9 @@
-![](https://media.discordapp.net/attachments/763053037332725790/871140760421040188/image0.gif)
+![](https://media.discordapp.net/attachments/1156373568955891713/1174156985059516566/static-assets-upload4056393977935101980.webp?ex=656691e8&is=65541ce8&hm=1af1f83b318a8247a25337b1a8febec6e371d582201a554d30118781b1803095&=&width=200&height=200)
 <br>
 <br>
 Programming Activity
 --
 ![](https://wakatime.com/share/@ATPStorages/2737cc92-9bee-40f1-a01e-a2bbe5b0d241.svg)
-<br>
-Languages I Stumble onto
---
-![](https://wakatime.com/share/@ATPStorages/19af66c0-9ca9-4c4f-abf8-61067b8c265d.svg)
 =
 ![](https://komarev.com/ghpvc/?username=ATPStorages&color=orange)
 <!--
